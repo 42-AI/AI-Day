@@ -1,0 +1,54 @@
+# AI-Day
+<div style="text-align:center"><img src="https://www.42ai.fr/wp-content/uploads/2020/04/White@4x-980x607.png" style="width:100%"/></div>
+
+## Description
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+## Inscription
+
+Clique ici et rempli notre formulaire pour faire parti des invites !
+
+## Planning
+
+|  |  | Holodeck | TDM | E1 | E0 |
+|-:|:-|:-:|:-:|:-:|:-:|
+|13h | 00 | x | x | x | Cafe et discussions |
+|13h | 15 | x | x | x | Cafe et discussions
+|13h | 30 | x | x | x | Cafe et discussions
+|13h | 45 | x | x | x |
+|14h | 00 | x | x | x |
+|14h | 15 | x | x | x |
+|14h | 30 | x | x | Boom Boom King |
+|14h | 45 | x | x | Boom Boom King |
+|15h | 00 | x | x | Boom Boom King |
+|15h | 15 | x | x | Boom Boom King |
+|15h | 30 | x | x | Boom Boom King |
+|15h | 45 | x | x | Boom Boom King |
+|16h | 00 | x | x | x | Job Dating et bonbons |
+|16h | 15 | x | x | x | Job Dating et bonbons |
+|16h | 30 | x | x | x | Job Dating et bonbons |
+|16h | 45 | x | x | x | Job Dating et bonbons |
+|17h | 00 | x | x | x |
+|17h | 15 | x | x | x |
+|17h | 30 | x | x | x |
+|17h | 45 | x | x | x |
+|18h | 00 | x | x | x |
+|18h | 15 | x | x | x |
+|18h | 30 | x | x | x | Bieres |
+|18h | 45 | x | x | x | Bieres |
+
+
+## Details des evenements
+
+### Presentations
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+### Conferences
+
+Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+### Workshop
+
+Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
