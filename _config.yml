@@ -6,3 +6,5 @@ plugins:
 
 title: Custom Title
 description: My Custom Description
+
+theme: jekyll-theme-minimal
