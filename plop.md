@@ -1,4 +1,4 @@
-# AI-Day
+# AI-Day 🚀
 <div style="text-align:center"><img src="https://www.42ai.fr/wp-content/uploads/2020/04/White@4x-980x607.png" style="width:100%"/></div>
 
 ## Description
