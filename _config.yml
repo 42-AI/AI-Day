@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "42-AI"
-  avatar : "/assets/images/White@4x-980x607.png"
+  avatar : "/assets/images/White.png"
   bio    : "Association étudiante créée en 2017 au sein de l’École 42, campus de Paris, pour faire la promotion de l’intelligence artificielle. Nous organisons des événements pour la communauté 42 et nos ressources pédagogiques sont maintenant utilisées à travers le monde."
   links:
     - label: "Website"
